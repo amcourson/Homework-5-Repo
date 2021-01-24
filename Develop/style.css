@@ -36,6 +36,10 @@ textarea{
   border-top: 1px solid white;;
 }
 
+.col-a1{
+  width:300px;
+}
+
 .hour {
   background-color: #ffffff;
   color: #000000;
@@ -69,3 +73,10 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
+
+
+
+
+
+
