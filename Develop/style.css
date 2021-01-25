@@ -30,15 +30,91 @@ textarea{
   border-radius: 15px;
 }
 
-.row {
+.row-1 {
   white-space: pre-wrap;
   height: 80px;
-  border-top: 1px solid white;;
+  border-top: 1px;
+  background-color:lightgray;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+}
+.row-2 {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px;
+  background-color:lightgray;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+}
+.row-3 {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px;
+  background-color:lightgray;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+}
+.row-4 {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px;
+  background-color:lightgray;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
 }
 
-.col-a1{
-  width:300px;
+.row-5 {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px;
+  background-color:lightgray;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
 }
+.row-6 {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px;
+  background-color:lightgray;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+}
+.row-7 {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px;
+  background-color:lightgray;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+}
+
+.row-8 {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px;
+  background-color:lightgray;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+}
+.row-9 {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px;
+  background-color:lightgray;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom:20px;
+  text-align: center;
+}
+
 
 .hour {
   background-color: #ffffff;
